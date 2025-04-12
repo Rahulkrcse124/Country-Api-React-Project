@@ -1,7 +1,3 @@
-Certainly! Here's a professional and easy-to-understand `README.md` file for your GitHub repository: [Country-Api-React-Project](https://github.com/Rahulkrcse124/Country-Api-React-Project.git). This README provides a clear overview of your project, its features, setup instructions, and more.
-
----
-
 # 🌍 Country API React Project
 This React application fetches data from the REST Countries API to display information about countries worldwide Users can search for countries, filter them by region, and view detailed information about each country.
 
